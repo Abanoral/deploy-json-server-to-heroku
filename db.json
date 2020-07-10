@@ -1,9 +1,31 @@
-{
-  "session": [
-    { "id": 1, "nameExercise": 10, "description": "imagen", "video": "bob", "set": "1", "repetitionUnit": "3" },
-    { "id": 2, "nameExercise": 22, "description": "Python is D Best", "video": "sarah", "set": "1", "repetitionUnit": "3" },
-    { "id": 3, "nameExercise": 28, "description": "Show me the data", "video": "john", "set": "1", "repetitionUnit": "3" },
-    { "id": 4, "nameExercise": 31, "description": "Hello Friend!", "video": "anna", "set": "1", "repetitionUnit": "3" },
-    { "id": 5, "nameExercise": 58, "description": "Do something", "video": "hana, ", "set": "1", "repetitionUnit": "3" }
-  ]
-}
+[{
+    "id": 1,
+    "postId": 10,
+    "title": "Hello World",
+    "author": "bob"
+  },
+  {
+    "id": 2,
+    "postId": 22,
+    "title": "Python is D Best",
+    "author": "sarah"
+  },
+  {
+    "id": 3,
+    "postId": 28,
+    "title": "Show me the data",
+    "author": "john"
+  },
+  {
+    "id": 4,
+    "postId": 31,
+    "title": "Hello Friend!",
+    "author": "anna"
+  },
+  {
+    "id": 5,
+    "postId": 58,
+    "title": "Do something",
+    "author": "hana"
+  }
+]

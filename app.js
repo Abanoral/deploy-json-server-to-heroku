@@ -10,7 +10,7 @@ server.use(middlewares);
 server.use(morgan("dev"));
 server.use( cors(), (req, res, next) => {
   // Middleware to disable CORS
-  res.header("Access-Control-Allow-Origin", "*");
+  res.header(`Access-Control-Allow-Origin`, "*");
   next();
 });
 server.use(router);
